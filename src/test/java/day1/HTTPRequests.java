@@ -1,5 +1,3 @@
-//test edit
-
 package day1;
 
 import org.testng.annotations.Test;
